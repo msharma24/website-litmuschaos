@@ -106,7 +106,7 @@ const Burger: React.FC = () => {
               <a
                 rel="noopener noreferrer"
                 target="_blank"
-                href="https://docs.litmuschaos.io/docs/getstarted/"
+                href="https://docs.litmuschaos.io/docs/"
                 className="buttonMobile"
               >
                 Get Started

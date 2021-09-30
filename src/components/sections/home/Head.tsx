@@ -126,7 +126,7 @@ const HeadText: React.FC = () => {
     <Button
       gradientColor="purple"
       onClick={() =>
-        window.open("https://docs.litmuschaos.io/docs/getstarted/")
+        window.open("https://docs.litmuschaos.io/docs/")
       }
     >
       Get Started
